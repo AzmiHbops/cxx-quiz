@@ -21,7 +21,7 @@ void gameLoop()
 	
 	cout << "How many rounds of play? ";
 	cin >> range;
-	for (int i = 0; i < range; i++)
+	for (int j = 0; j < range; j++)
 	{
 		int score{0};
 		bool win{true};
